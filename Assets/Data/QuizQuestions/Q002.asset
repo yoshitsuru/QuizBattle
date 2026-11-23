@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35ee93127bf48274fb7f98e4960c60f1, type: 3}
+  m_Name: Q002
+  m_EditorClassIdentifier: Assembly-CSharp::QuizQuestion
+  questionId: Q002
+  questionText: "\u6C34\u304C\u6A19\u6E96\u7684\u306A\u5927\u6C17\u5727\u3067\u6CB8\u9A30\u3059\u308B\u6E29\u5EA6\u306F\u4F55\u2103\uFF1F"
+  choices:
+  - "50\u2103"
+  - "75\u2103"
+  - "100\u2103"
+  - "150\u2103"
+  correctAnswerIndex: 2
+  category: "\u79D1\u5B66"
+  difficulty: 0
+  explanation: "\u6A19\u6E96\u7684\u306A\u5927\u6C17\u5727\u3067\u306F\u6C34\u306E\u6CB8\u70B9\u306F\u7D04100\u2103\u3067\u3059\u3002"

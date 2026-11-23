@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35ee93127bf48274fb7f98e4960c60f1, type: 3}
+  m_Name: Q005
+  m_EditorClassIdentifier: Assembly-CSharp::QuizQuestion
+  questionId: Q005
+  questionText: "\u65E5\u672C\u306E\u786C\u8CA8\u3067\u3001\u73FE\u5728\u4E00\u822C\u7684\u306B\u6D41\u901A\u3057\u3066\u3044\u308B\u984D\u9762\u3068\u3057\u3066\u5B58\u5728\u3059\u308B\u306E\u306F\u3069\u308C\uFF1F"
+  choices:
+  - "7\u5186"
+  - "25\u5186"
+  - "50\u5186"
+  - "200\u5186"
+  correctAnswerIndex: 2
+  category: "\u4E00\u822C\u5E38\u8B58"
+  difficulty: 0
+  explanation: "50\u5186\u786C\u8CA8\u306F\u73FE\u5728\u6D41\u901A\u3057\u3066\u3044\u308B\u65E5\u672C\u306E\u786C\u8CA8\u3067\u3059\u3002"

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57001db0f81daab4e8be5bc31f24b92e, type: 3}
+  m_Name: BasicQuizQuestionSet
+  m_EditorClassIdentifier: Assembly-CSharp::QuizQuestionSet
+  setId: SET001
+  displayName: "\u57FA\u672C\u554F\u984C\u30BB\u30C3\u30C8"
+  questions:
+  - {fileID: 11400000, guid: 25787c41afce4a3489db0c02c09d20ee, type: 2}
+  - {fileID: 11400000, guid: 647ffafb0e9745d468691a894bdd632d, type: 2}
+  - {fileID: 11400000, guid: 2982f91212c2d4d4ba351e2fa88c1f65, type: 2}
+  - {fileID: 11400000, guid: 62533a39192e1f944a7c63f9e8577d7e, type: 2}
+  - {fileID: 11400000, guid: 9c2c344865c14cf43ab091039520614e, type: 2}
